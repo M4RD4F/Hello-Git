@@ -1,0 +1,1 @@
+print("Creación de nuevo archivo desde kali linux")
